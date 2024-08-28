@@ -1,5 +1,5 @@
 import { describe, expect, test } from "vitest";
-import { processFileTree } from "../src/lib/";
+import { processFileTree } from "../src/lib/rehype-file-tree";
 import { Icons } from "../src/lib/Icons";
 
 describe("validation", () => {

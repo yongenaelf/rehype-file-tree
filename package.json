@@ -1,9 +1,10 @@
 {
   "name": "@yongenaelf/rehype-file-tree",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A processor for creating HTML markup for file trees with icons.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
+  "type": "module",
   "scripts": {
     "build": "tsc",
     "prepublishOnly": "npm run build",
